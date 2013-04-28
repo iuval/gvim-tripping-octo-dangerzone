@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/iuval/proyectos/NRPipeline/app/views/projects'
+let g:netrw_dirhist_2='/home/iuval/proyectos/NRPipeline/app/views'
+let g:netrw_dirhist_3='/home/iuval/proyectos/NRPipeline/app/views/leads'
+let g:netrw_dirhist_4='/home/iuval/.ssh'
